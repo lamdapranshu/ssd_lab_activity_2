@@ -6,4 +6,6 @@ q1.sh
 	example: $ ./q1.sh abc.txt
 Note: file should be given executable permissions. 
 
-q2) directly run the file.
+q2.sh
+
+1) directly run the file.
